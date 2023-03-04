@@ -1,0 +1,4 @@
+To install typescript on our machine we need following command :-
+$npm install –g typescript
+$tsc –version
+
